@@ -2,21 +2,6 @@
 
 **Kittygram** is a production-ready social network application for cat lovers - an Instagram-style platform where users can share photos of their cats, showcase their achievements, and connect with other cat enthusiasts.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Quick Start](#quick-start)
-- [Development Setup](#development-setup)
-- [Production Deployment](#production-deployment)
-- [Environment Variables](#environment-variables)
-- [CI/CD Pipeline](#cicd-pipeline)
-- [API Documentation](#api-documentation)
-- [Project Structure](#project-structure)
-- [Testing](#testing)
-- [License](#license)
-
 ## ✨ Features
 
 - 🔐 **User Authentication**: Secure registration and login system using Djoser
