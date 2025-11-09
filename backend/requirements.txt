@@ -1,0 +1,10 @@
+Django
+djangorestframework
+djoser
+webcolors
+psycopg2-binary
+Pillow
+pytest
+pytest-django
+pytest-pythonpath
+PyYAML
