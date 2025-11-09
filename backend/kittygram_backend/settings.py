@@ -10,9 +10,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '158.160.189.137',
-    'taski.serveic.com',
     'localhost',
     '127.0.0.1',
+    'taski.serveirc.com',
 ]
 
 INSTALLED_APPS = [
